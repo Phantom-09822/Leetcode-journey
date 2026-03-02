@@ -6,6 +6,7 @@ This repository is about the leetcode problems i solve and it keeps a track of t
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Phantom-09822/Leetcode-journey/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Phantom-09822/Leetcode-journey/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
