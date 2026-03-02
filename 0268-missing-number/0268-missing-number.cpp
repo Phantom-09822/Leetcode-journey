@@ -9,9 +9,6 @@ public:
             xor1 = xor1 ^ (i + 1);    // XOR range 1 to n
         }
         
-        // If the range is 1 to N, and the array size is N-1:
-        // You've already XORed up to N-1 in the loop.
-        // Just like Striver showed, XOR with the final N (which is n+1 here).
         
         return xor1 ^ xor2; 
     }
