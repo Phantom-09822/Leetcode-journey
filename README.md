@@ -5,6 +5,7 @@ This repository is about the leetcode problems i solve and it keeps a track of t
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Phantom-09822/Leetcode-journey/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Phantom-09822/Leetcode-journey/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Phantom-09822/Leetcode-journey/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -22,6 +23,7 @@ This repository is about the leetcode problems i solve and it keeps a track of t
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Phantom-09822/Leetcode-journey/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Phantom-09822/Leetcode-journey/tree/master/0268-missing-number) |
 ## Sorting
 |  |
