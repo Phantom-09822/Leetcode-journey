@@ -12,7 +12,7 @@ public:
             if(cnt == 0){
                 cnt = 1;
                 el = nums[i];
-            } // Removed the semicolon here
+            } 
             else if(nums[i] == el){
                 cnt++;
             }
